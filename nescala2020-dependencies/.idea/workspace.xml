@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56227f6d-d805-46ff-91f3-ad8285b970ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../NEScala 2020 - Lef Ioannidis, eDSLs for embedded business logic in Scala.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../NEScala 2020 - Lef Ioannidis, eDSLs for embedded business logic in Scala.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NEScala 2020 - eDSL A.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../NEScala 2020 - eDSL A.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NEScala 2020 - eDSL B.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../NEScala 2020 - eDSL B.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NEScala 2020 - eDSL C.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../NEScala 2020 - eDSL C.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interest-rates.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interest-rates/interest-rates-1y.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interest-rates/interest-rates-1yb.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interest-rates/interest-rates-30y.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interest-rates/interest-rates-3m.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interest-rates/interest-rates-6my.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/example/ProvenancePeriodSeries.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/example/ProvenancePeriodSeries.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YdvDxC59RKmmk8S9jfoIapTqpN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala/example" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="example" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Prov">
+    <configuration name="Bar" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.Bar" />
+      <module name="nescala2020-dependencies" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Foo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bwater.nescala.Foo" />
+      <module name="nescala2020-dependencies" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prov" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.bwater.nescala.Prov" />
+      <module name="nescala2020-dependencies" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.bwater.nescala.SimplePeriodSeries$Foo" />
+      <module name="nescala2020-dependencies" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Bar" />
+      <item itemvalue="Application.Foo" />
+      <item itemvalue="Application.Prov" />
+    </list>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="nescala2020-dependencies" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/Users/lef/git/nescala2020-eDSLs/nescala2020-dependencies/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="nescala2020-dependencies-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4749951769979" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="973711777" />
+        <entry key="$PROJECT_DIR$/project/Dependencies.scala" value="1964861620" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../cats-sandbox" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cats-seed.g8" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../excel-parser" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56227f6d-d805-46ff-91f3-ad8285b970ed" name="Default Changelist" comment="" />
+      <created>1583285169049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583285169049</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="207" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583683141125">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="225" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/-62.-877.1600.877/0.23.1440.877@0.23.1440.877" timestamp="1583481296453" />
+    <state x="458" y="207" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.900@0.0.1440.900" timestamp="1583683141125" />
+    <state x="458" y="225" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.877@0.23.1440.877" timestamp="1583372915068" />
+    <state x="184" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583683480365">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/-62.-877.1600.877/0.23.1440.877@0.23.1440.877" timestamp="1583481687021" />
+    <state x="184" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1583683480365" />
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1583372981633" />
+    <state x="525" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1583480906008">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="525" y="160" key="#com.intellij.ide.util.MemberChooser/-62.-877.1600.877/0.23.1440.877@0.23.1440.877" timestamp="1583480906008" />
+    <state x="525" y="160" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1583382427935" />
+    <state x="457" y="238" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583683476853">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="457" y="255" key="#com.intellij.ide.util.TreeClassChooserDialog/-62.-877.1600.877/0.23.1440.877@0.23.1440.877" timestamp="1583481683244" />
+    <state x="457" y="238" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1583683476853" />
+    <state x="457" y="255" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.877@0.23.1440.877" timestamp="1583372949331" />
+    <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583287264095">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1583287264095" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1583864836622">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/-62.-877.1600.877/0.23.1440.877@0.23.1440.877" timestamp="1583484284304" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583855267917" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1583864836621" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1583864836594">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.center/-62.-877.1600.877/0.23.1440.877@0.23.1440.877" timestamp="1583484284303" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583855267914" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1583864836594" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1583864836573">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.left/-62.-877.1600.877/0.23.1440.877@0.23.1440.877" timestamp="1583484284301" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583855267912" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1583864836573" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1583864836609">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.right/-62.-877.1600.877/0.23.1440.877@0.23.1440.877" timestamp="1583484284303" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583855267915" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1583864836609" />
+    <state width="1398" height="186" key="GridCell.Tab.1.bottom" timestamp="1583481715242">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="186" key="GridCell.Tab.1.bottom/-62.-877.1600.877/0.23.1440.877@0.23.1440.877" timestamp="1583481715242" />
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1583373951439" />
+    <state width="1398" height="186" key="GridCell.Tab.1.center" timestamp="1583481715233">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="186" key="GridCell.Tab.1.center/-62.-877.1600.877/0.23.1440.877@0.23.1440.877" timestamp="1583481715233" />
+    <state width="1398" height="285" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1583373951438" />
+    <state width="1398" height="186" key="GridCell.Tab.1.left" timestamp="1583481715229">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="186" key="GridCell.Tab.1.left/-62.-877.1600.877/0.23.1440.877@0.23.1440.877" timestamp="1583481715229" />
+    <state width="1398" height="285" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1583373951436" />
+    <state width="1398" height="186" key="GridCell.Tab.1.right" timestamp="1583481715240">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="186" key="GridCell.Tab.1.right/-62.-877.1600.877/0.23.1440.877@0.23.1440.877" timestamp="1583481715240" />
+    <state width="1398" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1583373951439" />
+    <state x="208" y="44" key="SettingsEditor" timestamp="1583483491529">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="44" key="SettingsEditor/-62.-877.1600.877/0.23.1440.877@0.23.1440.877" timestamp="1583483491529" />
+    <state x="482" y="72" key="refactoring.ChangeSignatureDialog" timestamp="1583512919326">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="482" y="72" key="refactoring.ChangeSignatureDialog/-62.-877.1600.877/0.23.1440.877@0.23.1440.877" timestamp="1583512919326" />
+  </component>
+</project>
